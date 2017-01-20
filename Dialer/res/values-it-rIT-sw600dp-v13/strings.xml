@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="composer_has_no_exportable_contact">"Non sono presenti contatti esportabili. Se hai contatti sul telefono, è possibile che alcuni fornitori di dati non consentano l\'esportazione dei contatti dal telefono."</string>
+</resources>
