@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Timer</string>
+    <string name="switch_on">Accensione</string>
+    <string name="switch_off">Spegnimento</string>
+    <string name="every_day">Tutti i giorni</string>
+    <string name="switch_repeat">Ripeti</string>
+    <string name="day">1 giorno</string>
+    <string name="days">%s giorni</string>
+    <string name="hour">1 ora</string>
+    <string name="hours">%s ore</string>
+    <string name="minute">1 minuto</string>
+    <string name="minutes">%s minuti</string>
+    <string name="never">Mai</string>
+    <string name="switch_off_dialog_cancel">Annulla</string>
+    <string name="switch_off_dialog_ok">Spegni</string>
+    <string name="switch_off_dialog_title">Spegnimento programmato</string>
+    <string name="switch_off_message">Il dispositivo verrà spento tra %s secondi</string>
+    <string name="switch_off_message_second">Il dispositivo verrà spento tra %s secondo</string>
+    <string name="done_label">Fatto</string>
+    <string name="hour_picker_description">Cursore circolare delle ore</string>
+    <string name="minute_picker_description">Cursore circolare dei minuti</string>
+    <string name="select_hours">Seleziona l\'ora</string>
+    <string name="select_minutes">Seleziona i minuti</string>
+    <string name="day_picker_description">Griglia dei giorni</string>
+    <string name="year_picker_description">Lista anno</string>
+    <string name="select_day">Seleziona anno e giorno</string>
+    <string name="select_year">Seleziona anno</string>
+    <string name="item_is_selected">%1$s selezionato</string>
+    <string name="deleted_key">%1$s cancellato</string>
+</resources>

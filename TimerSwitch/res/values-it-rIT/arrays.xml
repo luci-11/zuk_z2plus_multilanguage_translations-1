@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="switch_set">
+        <item>Il timer è stato impostato. Partirà tra meno di 1 minuto.</item>
+        <item>Il timer è stato impostato. Partirà tra %2$s da adesso.</item>
+        <item>Il timer è stato impostato. Partirà tra%3$s da adesso.</item>
+        <item>Il timer è stato impostato. Partirà tra %2$s e %3$s da adesso.</item>
+        <item>Il timer è stato impostato. Partirà tra %4$s da adesso.</item>
+        <item>Il timer è stato impostato. Partirà tra %2$s e %4$s da adesso.</item>
+        <item>Il timer è stato impostato. Partirà tra %3$s e %4$s da adesso.</item>
+        <item>Il timer è stato impostato. Partirà tra %2$s, %3$s, e %4$s da adesso.</item>
+    </string-array>
+</resources>
