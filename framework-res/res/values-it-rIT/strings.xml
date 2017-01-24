@@ -333,10 +333,10 @@
     <string name="permlab_transmitIr">发射红外线</string>
     <string name="permdesc_transmitIr">允许应用使用手机的红外线发射器。</string>
     <string name="permlab_setWallpaper">设置壁纸</string>
-    <string name="permdesc_setWallpaper">允许应用设置系统壁纸。</string>
-    <string name="permlab_setWallpaperHints">调整您的壁纸大小</string>
-    <string name="permdesc_setWallpaperHints">允许应用设置有关系统壁纸大小的提示。</string>
-    <string name="permlab_setTimeZone">设置时区</string>
+    <string name="permdesc_setWallpaper">Consente all\'applicazione di impostare lo sfondo del sistema.</string>
+    <string name="permlab_setWallpaperHints">regolazione dimensioni sfondo</string>
+    <string name="permdesc_setWallpaperHints">"Consente all\'applicazione di impostare i suggerimenti per le dimensioni dello sfondo del sistema.</string>
+    <string name="permlab_setTimeZone">impostazione fuso orario</string>
     <string name="permdesc_setTimeZone">Consente all\'applicazione di modificare il fuso orario del telefono.</string>
     <string name="permlab_getAccounts">individuazione account sul dispositivo</string>
     <string name="permdesc_getAccounts">Consente all\'applicazione di accedere all\'elenco degli account noti al tablet. Ciò può includere eventuali account creati da applicazioni installate.</string>
