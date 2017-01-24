@@ -337,7 +337,7 @@
     <string name="permlab_setWallpaperHints">调整您的壁纸大小</string>
     <string name="permdesc_setWallpaperHints">允许应用设置有关系统壁纸大小的提示。</string>
     <string name="permlab_setTimeZone">设置时区</string>
-    <string name="permdesc_setTimeZone">允许应用更改手机的时区。</string>
+    <string name="permdesc_setTimeZone">Consente all\'applicazione di modificare il fuso orario del telefono.</string>
     <string name="permlab_getAccounts">individuazione account sul dispositivo</string>
     <string name="permdesc_getAccounts">Consente all\'applicazione di accedere all\'elenco degli account noti al tablet. Ciò può includere eventuali account creati da applicazioni installate.</string>
     <string name="permlab_accessNetworkState">visualizzazione connessioni di rete</string>
