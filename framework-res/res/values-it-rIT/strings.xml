@@ -294,7 +294,7 @@
     <string name="permlab_readContacts">lettura contatti personali</string>
     <string name="permdesc_readContacts">Consente all\'applicazione di leggere i dati relativi ai tuoi contatti memorizzati sul telefono, inclusa la frequenza con cui hai effettuato chiamate, inviato email o comunicato in altri modi con individui specifici. Questa autorizzazione consente alle applicazioni di salvare i dati dei tuoi contatti e applicazioni dannose potrebbero condividere i dati dei contatti a tua insaputa.</string>
     <string name="permlab_writeContacts">/modifica dei contatti personali</string>
-    <string name="permdesc_writeContacts">Consente all\'applicazione di modificare il registro chiamate del telefono, inclusi i dati sulle chiamate in arrivo e in uscita. Le applicazioni dannose potrebbero farne uso per cancellare o modificare il registro chiamate.
+    <string name="permdesc_writeContacts">Consente all\'applicazione di modificare il registro chiamate del telefono, inclusi i dati sulle chiamate in arrivo e in uscita. Le applicazioni dannose potrebbero farne uso per cancellare o modificare il registro chiamate.</string>
     <string name="permlab_readCallLog">lettura del registro chiamate</string>
     <string name="permdesc_readCallLog">Consente all\'applicazione di leggere il registro chiamate del telefono, inclusi i dati sulle chiamate in arrivo e in uscita. Questa autorizzazione consente alle applicazioni di salvare i dati del tuo registro chiamate e applicazioni dannose potrebbero condividere i dati del registro chiamate a tua insaputa.</string>
     <string name="permlab_writeCallLog">/scrittura del registro chiamate</string>
